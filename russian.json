@@ -752,71 +752,71 @@
 "needs translation": [
 	{
 		"or": "%.3f KiB",
-		"tr": ""
+		"tr": "%.3f КиБ" 
 	},
 	{
 		"or": "%d player left",
-		"tr": ""
+		"tr": "%d игрок остался"
 	},
 	{
 		"or": "%d player not ready",
-		"tr": ""
+		"tr": "%d игроков не готово"
 	},
 	{
 		"or": "%d players left",
-		"tr": ""
+		"tr": "%d игроков осталось"
 	},
 	{
 		"or": "%d players not ready",
-		"tr": ""
+		"tr": "%d игроков не готовы"
 	},
 	{
 		"or": "%d servers, %d players",
-		"tr": ""
+		"tr": "%d серверов, %d игроков"
 	},
 	{
 		"or": "'%s' called for vote to kick '%s' (%s)",
-		"tr": ""
+		"tr": "'%s' голосование: кик '%s' (%s)"
 	},
 	{
 		"or": "'%s' called for vote to move '%s' to spectators (%s)",
-		"tr": ""
+		"tr": "'%s' голосование: переместить '%s' в зрители (%s)"
 	},
 	{
 		"or": "'%s' called vote to change server option '%s' (%s)",
-		"tr": ""
+		"tr": "'%s' голосование: изменить опции сервера '%s' (%s)"
 	},
 	{
 		"or": "'%s' entered and joined the %s",
-		"tr": ""
+		"tr": "'%s' присоединился к %s"
 	},
 	{
 		"or": "'%s' has left the game",
-		"tr": ""
+		"tr": "'%s' покинул игру"
 	},
 	{
 		"or": "'%s' has left the game (%s)",
-		"tr": ""
+		"tr": "'%s' покинул игру (%s)"
 	},
 	{
 		"or": "'%s' joined the %s",
-		"tr": ""
+		"tr": "'%s' присоединился к %s"
 	},
 	{
 		"or": "Admin forced server option '%s' (%s)",
-		"tr": ""
+		"tr": "Админ изменил опции сервера '%s' (%s)"
 	},
 	{
 		"or": "Admin forced vote no",
-		"tr": ""
+		"tr": "Админ проголосовал нет"
 	},
 	{
 		"or": "Admin forced vote yes",
-		"tr": ""
+		"tr": "Админ проголосовал да"
 	},
 	{
 		"or": "Admin moved '%s' to spectator (%s)",
-		"tr": ""
+		"tr": "Админ переместил '%s' к зрителям (%s)"
 	},
 	{
 		"or": "Alp:",
@@ -824,19 +824,19 @@
 	},
 	{
 		"or": "Anti Aliasing",
-		"tr": ""
+		"tr": "Сглаживание"
 	},
 	{
 		"or": "Are you sure you want to rename the demo?",
-		"tr": ""
+		"tr": "Вы уверены, что хотите переименовать демо?"
 	},
 	{
 		"or": "Are you sure you want to save your skin? If a skin with this name already exists, it will be replaced.",
-		"tr": ""
+		"tr": "Вы уверены, что вы хотите сохранить скин? Если скин с таким именем уже существует, то он будет заменен."
 	},
 	{
 		"or": "Back",
-		"tr": ""
+		"tr": "Назад"
 	},
 	{
 		"or": "Basic",
@@ -848,107 +848,107 @@
 	},
 	{
 		"or": "Borderless window",
-		"tr": ""
+		"tr": "В окне без рамок"
 	},
 	{
 		"or": "Browser",
-		"tr": ""
+		"tr": "Броузер"
 	},
 	{
 		"or": "Color",
-		"tr": ""
+		"tr": "Цвет"
 	},
 	{
 		"or": "Crc",
-		"tr": ""
+		"tr": "Crc"
 	},
 	{
 		"or": "Created",
-		"tr": ""
+		"tr": "Создано"
 	},
 	{
 		"or": "Custom",
-		"tr": ""
+		"tr": "Кастом"
 	},
 	{
 		"or": "Customize",
-		"tr": ""
+		"tr": "Кастомизировать"
 	},
 	{
 		"or": "Decoration",
-		"tr": ""
+		"tr": "Декорация"
 	},
 	{
 		"or": "Demo",
-		"tr": ""
+		"tr": "Демо"
 	},
 	{
 		"or": "Detail",
-		"tr": ""
+		"tr": "Детали"
 	},
 	{
 		"or": "Editor",
-		"tr": ""
+		"tr": "Редактор"
 	},
 	{
 		"or": "Eyes",
-		"tr": ""
+		"tr": "Глаза"
 	},
 	{
 		"or": "Format",
-		"tr": ""
+		"tr": "Формат"
 	},
 	{
 		"or": "Game paused",
-		"tr": ""
+		"tr": "Игра приостановлена"
 	},
 	{
 		"or": "Game starts in",
-		"tr": ""
+		"tr": "Игра начнется в"
 	},
 	{
 		"or": "Global",
-		"tr": ""
+		"tr": "Глобал"
 	},
 	{
 		"or": "Hands",
-		"tr": ""
+		"tr": "Руки"
 	},
 	{
 		"or": "Host address:",
-		"tr": ""
+		"tr": "Адрес хоста:"
 	},
 	{
 		"or": "Hue:",
-		"tr": ""
+		"tr": "Оттенок:"
 	},
 	{
 		"or": "Join",
-		"tr": ""
+		"tr": "Присоединиться"
 	},
 	{
 		"or": "Joined",
-		"tr": ""
+		"tr": "Присоединился"
 	},
 	{
 		"or": "Joined blue",
-		"tr": ""
+		"tr": "Присоединился к синим"
 	},
 	{
 		"or": "Joined red",
-		"tr": ""
+		"tr": "Присоединился к красным"
 	},
 	{
 		"or": "Kick voting requires %d players on the server",
-		"tr": ""
+		"tr": "Голосование за кик требует %d игроков на сервере"
 	},
 	{
 		"or": "Laser",
-		"tr": ""
+		"tr": "Лазер"
 	},
 	{
 		"or": "Length",
-		"tr": ""
+		"tr": "Длина"
 	},
 	{
 		"or": "Letterbox",
@@ -960,11 +960,11 @@
 	},
 	{
 		"or": "Local",
-		"tr": ""
+		"tr": "Локальный"
 	},
 	{
 		"or": "Local server",
-		"tr": ""
+		"tr": "Локальный сервер"
 	},
 	{
 		"or": "Match",
@@ -972,223 +972,223 @@
 	},
 	{
 		"or": "Max",
-		"tr": ""
+		"tr": "Max"
 	},
 	{
 		"or": "Misc",
-		"tr": ""
+		"tr": "Разное"
 	},
 	{
 		"or": "Netversion",
-		"tr": ""
+		"tr": "Версия"
 	},
 	{
 		"or": "Nickname is empty.",
-		"tr": ""
+		"tr": "Никнейм пуст"
 	},
 	{
 		"or": "Normal:",
-		"tr": ""
+		"tr": "Нормальный:"
 	},
 	{
 		"or": "Only %d active players are allowed",
-		"tr": ""
+		"tr": "Только %d активных игроков разрешено"
 	},
 	{
 		"or": "Personal",
-		"tr": ""
+		"tr": "Личный"
 	},
 	{
 		"or": "Ready",
-		"tr": ""
+		"tr": "Готов"
 	},
 	{
 		"or": "Record",
-		"tr": ""
+		"tr": "Запись"
 	},
 	{
 		"or": "Recorded",
-		"tr": ""
+		"tr": "Записанно"
 	},
 	{
 		"or": "Reset",
-		"tr": ""
+		"tr": "Сброс"
 	},
 	{
 		"or": "Resolutions",
-		"tr": ""
+		"tr": "Разрешения"
 	},
 	{
 		"or": "Respawn",
-		"tr": ""
+		"tr": "Респавн"
 	},
 	{
 		"or": "Round over",
-		"tr": ""
+		"tr": "Раунд окончен"
 	},
 	{
 		"or": "Round over!",
-		"tr": ""
+		"tr": "Раунд окончен!"
 	},
 	{
 		"or": "Sat:",
-		"tr": ""
+		"tr": "Контраст:"
 	},
 	{
 		"or": "Save",
-		"tr": ""
+		"tr": "Сохранить скин"
 	},
 	{
 		"or": "Save skin",
-		"tr": ""
+		"tr": "Сохранить скин"
 	},
 	{
 		"or": "Screen",
-		"tr": ""
+		"tr": "Экран"
 	},
 	{
 		"or": "Search:",
-		"tr": ""
+		"tr": "Поиск:"
 	},
 	{
 		"or": "Server does not allow voting to kick players",
-		"tr": ""
+		"tr": "Сервер не разрешает голосование за кик игроков"
 	},
 	{
 		"or": "Server does not allow voting to move players to spectators",
-		"tr": ""
+		"tr": "Сервер не разрешает голосование за перемещение игроков к зрителям "
 	},
 	{
 		"or": "Servers",
-		"tr": ""
+		"tr": "Сервера"
 	},
 	{
 		"or": "Show only chat messages from friends",
-		"tr": ""
+		"tr": "Показать только сообщения от друзей"
 	},
 	{
 		"or": "Size",
-		"tr": ""
+		"tr": "Размер"
 	},
 	{
 		"or": "Skin",
-		"tr": ""
+		"tr": "Скин"
 	},
 	{
 		"or": "Spectating",
-		"tr": ""
+		"tr": "Наблюдение"
 	},
 	{
 		"or": "Spectators aren't allowed to start a vote.",
-		"tr": ""
+		"tr": "Зрителям нельзя начинать голосования."
 	},
 	{
 		"or": "Standard Gametype",
-		"tr": ""
+		"tr": "Стандартный тип игры"
 	},
 	{
 		"or": "Tattoo",
-		"tr": ""
+		"tr": "Татуировка"
 	},
 	{
 		"or": "Tattoos",
-		"tr": ""
+		"tr": "Татуировки"
 	},
 	{
 		"or": "Team:",
-		"tr": ""
+		"tr": "Команда:"
 	},
 	{
 		"or": "Teams are locked",
-		"tr": ""
+		"tr": "Команды заблокированы"
 	},
 	{
 		"or": "Teams are locked. Time to wait before changing team: %02d:%02d",
-		"tr": ""
+		"tr": "Команды заблокированы. Время ожидания перед изменением команды: %02d:%02d"
 	},
 	{
 		"or": "Teams were locked",
-		"tr": ""
+		"tr": "Команды были заблокированы"
 	},
 	{
 		"or": "Teams were unlocked",
-		"tr": ""
+		"tr": "Команды были разблокированы"
 	},
 	{
 		"or": "Tee",
-		"tr": ""
+		"tr": "Tee"
 	},
 	{
 		"or": "Texture",
-		"tr": ""
+		"tr": "Текстуры"
 	},
 	{
 		"or": "Volume",
-		"tr": ""
+		"tr": "Звук"
 	},
 	{
 		"or": "Vote aborted",
-		"tr": ""
+		"tr": "Голосование прекращено"
 	},
 	{
 		"or": "Vote failed",
-		"tr": ""
+		"tr": "Голосование отвергнуто"
 	},
 	{
 		"or": "Vote passed",
-		"tr": ""
+		"tr": "Голосование принято"
 	},
 	{
 		"or": "Wait for current vote to end before calling a new one.",
-		"tr": ""
+		"tr": "Ожидание завершения текущего голосования, перед началом нового."
 	},
 	{
 		"or": "Wait for next round",
-		"tr": ""
+		"tr": "Ожидание следующего раунда"
 	},
 	{
 		"or": "Wide",
-		"tr": ""
+		"tr": "Ширина"
 	},
 	{
 		"or": "You must wait %d seconds before making another vote",
-		"tr": ""
+		"tr": "Ты должен подождать %d секунд перед следующим голосованием"
 	},
 	{
 		"or": "blue",
-		"tr": ""
+		"tr": "синий"
 	},
 	{
 		"or": "blue team",
-		"tr": ""
+		"tr": "синяя команда"
 	},
 	{
 		"or": "game",
-		"tr": ""
+		"tr": "игра"
 	},
 	{
 		"or": "locked",
-		"tr": ""
+		"tr": "заблокирован"
 	},
 	{
 		"or": "no players",
-		"tr": ""
+		"tr": "нет игроков"
 	},
 	{
 		"or": "red",
-		"tr": ""
+		"tr": "красный"
 	},
 	{
 		"or": "red team",
-		"tr": ""
+		"tr": "красная команда"
 	},
 	{
 		"or": "spectators",
-		"tr": ""
+		"tr": "зрители"
 	},
 	{
 		"or": "wait for more players",
-		"tr": ""
+		"tr": "ожидание большего числа игроков"
 	}],
 "old translations": [
 	{
